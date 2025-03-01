@@ -1,3 +1,11 @@
 # Telegram-Chatbot-on-AWS
 
-Steps  Telegram ‘bot father’ >> Lambda >> API gateway >> Postman
+Steps 
+
+step 1 : Telegram ‘bot father’ 
+
+step 2 : Lambda 
+
+step 3 : API gateway 
+
+step 4 : Postman
